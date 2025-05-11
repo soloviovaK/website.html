@@ -1,1 +1,17 @@
-
+body {
+  background: beige;
+  font-color: darkgrey;
+  font-family: Arial;
+  
+}
+title {
+  color:coral;
+  font-style: bold;
+  font-size: 20px;
+  text-align: center;
+.aboutme {
+  border-width: 6px;
+  border-style: double;
+  border-color: coral;
+  border-radius: 40px;
+  padding: 20px;
