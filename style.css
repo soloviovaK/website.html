@@ -7,7 +7,7 @@ body {
 title {
   color:coral;
   font-style: bold;
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
   }
 
@@ -18,3 +18,31 @@ title {
   border-radius: 40px;
   padding: 20px;
 }
+.services{
+  text-align:center;
+  text-size: 30px;
+  margin: 50px;
+  padding: 20px;
+  border-color:coral;
+  border-radius: 40px;
+  border-width: 6px;
+  border-style:double;
+  }
+.smm {
+  text-align:left;
+  text-size: 20px;
+  text-color:coral;
+  }
+.funnel {
+  text-align: center;
+  text-size: 20px;
+  text-color:coral;
+   }
+.dev {
+  text-align:right;
+  text-size:20px;
+  text-color:coral;
+  }
+
+  
+  
